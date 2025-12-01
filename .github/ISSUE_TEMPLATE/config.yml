@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: SOLUF-CILPEA Security Policy
-    url: https://github.com/SOLUF-CILPEA/SECURITY.md
-    about: View security policy
-  - name: SOLUF-CILPEA Developers
-    url: 
-    about: SOLUF-CILPEA homepage
+  - name: Non-API docs issues
+    url: https://github.com/Qiskit/documentation/issues/new/choose
+    about: Open an issue about documentation in the guides and additional resources sections of docs.quantum.ibm.com (non-API documentation)
